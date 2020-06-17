@@ -55,17 +55,17 @@
             <div class="login-sec">
               <div class="login-box">
                 <form>
-                  <h4 class="text-light-black fw-600">Sign in with your foodmart account</h4>
+                  <h4 class="text-light-black fw-600">Inicia sesión</h4>
                   <div class="row">
                     <div class="col-12">
                       <p class="text-light-black">Have a corporate username? <a href="add-restaurant.html">Click here</a>
                       </p>
                       <div class="form-group">
-                        <label class="text-light-white fs-14">Email</label>
-                        <input type="email" name="#" class="form-control form-control-submit" placeholder="Email I'd" required>
+                        <label class="text-light-white fs-14">Correo electronico</label>
+                        <input type="email" name="#" class="form-control form-control-submit" placeholder="Correo electronico" required>
                       </div>
                       <div class="form-group">
-                        <label class="text-light-white fs-14">Password</label>
+                        <label class="text-light-white fs-14">Contraseña</label>
                         <input type="password" id="password-field" name="#" class="form-control form-control-submit" value="password" placeholder="Password" required>
                         <div data-name="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></div>
                       </div>
@@ -75,19 +75,19 @@
                       </div>
                       <div class="form-group">
                         <button type="submit" class="btn-second btn-submit full-width">
-                          <img src="/images/M.png" alt="btn logo">Sign in</button>
+                          <img src="/images/M.png" alt="btn logo">Iniciar sesión</button>
                       </div>
-                      <div class="form-group text-center"> <span>or</span>
+                      <div class="form-group text-center"> <span>o</span>
                       </div>
                       <div class="form-group">
                         <button type="submit" class="btn-second btn-facebook full-width">
-                          <img src="/images/facebook-logo.svg" alt="btn logo">Continue with Facebook</button>
+                          <img src="/images/facebook-logo.svg" alt="btn logo">Continuar con Facebook</button>
                       </div>
                       <div class="form-group">
                         <button type="submit" class="btn-second btn-google full-width">
-                          <img src="/images/google-logo.png" alt="btn logo">Continue with Google</button>
+                          <img src="/images/google-logo.png" alt="btn logo">Continuar con Google</button>
                       </div>
-                      <div class="form-group text-center mb-0"> <a href="register.html">Create your account</a>
+                      <div class="form-group text-center mb-0"> <a href="/registrarse">Crear cuenta</a>
                       </div>
                     </div>
                   </div>

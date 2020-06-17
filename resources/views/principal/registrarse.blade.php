@@ -55,49 +55,49 @@
             <div class="login-sec">
               <div class="login-box">
                 <form>
-                  <h4 class="text-light-black fw-600">Create your account</h4>
+                  <h4 class="text-light-black fw-600">Crea tu cuenta</h4>
                   <div class="row">
                     <div class="col-lg-6 col-md-12 col-sm-6">
                       <div class="form-group">
-                        <label class="text-light-white fs-14">First name</label>
-                        <input type="text" name="#" class="form-control form-control-submit" placeholder="First Name" required>
+                        <label class="text-light-white fs-14">Nombre(s)</label>
+                        <input type="text" name="#" class="form-control form-control-submit" placeholder="Nombre(s)" required>
                       </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-6">
                       <div class="form-group">
-                        <label class="text-light-white fs-14">Last name</label>
-                        <input type="text" name="#" class="form-control form-control-submit" placeholder="Last Name" required>
+                        <label class="text-light-white fs-14">Apellidos</label>
+                        <input type="text" name="#" class="form-control form-control-submit" placeholder="Apellidos" required>
                       </div>
                     </div>
                     <div class="col-12">
                       <div class="form-group">
-                        <label class="text-light-white fs-14">Email</label>
-                        <input type="email" name="#" class="form-control form-control-submit" placeholder="Email I'd" required>
+                        <label class="text-light-white fs-14">Correo</label>
+                        <input type="email" name="#" class="form-control form-control-submit" placeholder="Email" required>
                       </div>
                       <div class="form-group">
-                        <label class="text-light-white fs-14">Password (8 character minimum)</label>
+                        <label class="text-light-white fs-14">Contraseña</label>
                         <input type="password" id="password-field" name="#" class="form-control form-control-submit" value="password" placeholder="Password" required>
                         <div data-name="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></div>
                       </div>
                       <div class="form-group checkbox-reset">
                         <label class="custom-checkbox mb-0">
-                          <input type="checkbox" name="#"> <span class="checkmark"></span> Keep me signed in</label>
+                          <input type="checkbox" name="#"> <span class="checkmark"></span> Recordar</label>
                       </div>
                       <div class="form-group">
-                        <button type="submit" class="btn-second btn-submit full-width">Create your account</button>
+                        <button type="submit" class="btn-second btn-submit full-width">Crear cuenta</button>
                       </div>
-                      <div class="form-group text-center"> <span>or</span>
+                      <div class="form-group text-center"> <span>o</span>
                       </div>
                       <div class="form-group">
                         <button type="submit" class="btn-second btn-facebook full-width">
-                          <img src="/images/facebook-logo.svg" alt="btn logo">Continue with Facebook</button>
+                          <img src="/images/facebook-logo.svg" alt="btn logo">Continuar con Facebook</button>
                       </div>
                       <div class="form-group">
                         <button type="submit" class="btn-second btn-google full-width">
-                          <img src="/images/google-logo.png" alt="btn logo">Continue with Google</button>
+                          <img src="/images/google-logo.png" alt="btn logo">Continuar con Google</button>
                       </div>
                       <div class="form-group text-center">
-                        <p class="text-light-black mb-0">Have an account? <a href="login.html">Sign in</a>
+                        <p class="text-light-black mb-0">Tienes una cuenta? <a href="/login">Iniciar sesión</a>
                         </p>
                       </div> <span class="text-light-black fs-12 terms">By creating your foodmart account, you agree to the <a href="#"> Terms of Use </a> and <a href="#"> Privacy Policy.</a></span>
                     </div>
